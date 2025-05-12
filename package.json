@@ -1,6 +1,11 @@
 {
-  "name": "types-case",
+  "name": "factory-vs-object-literals",
   "version": "0.0.0",
+  "description": "Demo project comparing factory functions vs. typed object literals for safe object creation in TypeScript.",
+  "author": {
+    "name": "Burt Snyder",
+    "email": "snyder.burt@gmail.com"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
