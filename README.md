@@ -8,6 +8,8 @@ I wanted a live example because I think it better shows what actually happens to
 
 Run it with the console open to see the errors..
 
+<img width="1477" alt="Screenshot 2025-05-11 at 11 21 47 PM" src="https://github.com/user-attachments/assets/a3ceeb26-bbdc-4060-9f41-6005a7520aa3" />
+
 The example uses a simple `Employee` model with these fields:
 ```typescript
 export type Employee = {
